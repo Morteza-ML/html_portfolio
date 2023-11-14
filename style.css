@@ -1,0 +1,20 @@
+* {
+  background: black;
+}
+div {
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+  color: white;
+}
+img {
+  border: 7px solid beige;
+  margin-top: 15%;
+  width: 100%;
+}
+h1 {
+  font-family: "Libre Baskerville", serif;
+}
+p {
+  font-family: "Playfair", serif;
+}
